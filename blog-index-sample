@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+  <link rel = "stylesheet" type="text/css" href = "style.css">
+
+  </head>
+  <body>
+    <div id="container">
+      <div id="top container">
+        <div id="header">
+          <h5><a class ="selected" href="index.html">OUR BUTTERFLIES</a></h5>
+          <h3>even the smallest parts of today change our tomorrow</h3>
+        </div>
+        <div id="menu">
+          <ul>
+            <li><a class="selected" href="entertainment.html">entertainment |</a></li>
+            <li><a class="selected" href="current.html">current events |</a></li>
+            <li><a class="selected" href="fashion.html">style |</a></li>
+            <li><a class="selected" href="wellness.html">wellness |</a></li>
+            <li><a class="selected" href="thoughts.html">thoughts |</a></li>
+            <li><a class="selected" href="whoweare.html">who we are</a></li>
+          </ul>
+      </div>
+    </div>
+      <div id="homeContent">
+        <div id="homeMain">
+          <title>Our Butterflies | Home</title>
+          <div id="image">
+            <img src = home.jpg>
+            <p>_______</p>
+            <h5>HOME</h5>
+            <p>_______</p>
+            <div id="homeDescription">
+              <p>check out what's new below or find a topic to browse in the menu</p>
+            </div>
+          </div>
+          <div id="latestTake">
+            <h2>latest take</h2>
+            <div id="articlebox">
+              <div id="thriftingtips">
+                <img src ="thriftingtips.jpg">
+                <div id="snippet">
+                  <ul>
+                    <li><a class="selected" href="thriftingtips.html">Thrifting Tips</a></li>
+                    <li><p><a class ="selected" href="whoweare.html">Claire Silverstein</a></p></li>
+                    <li><p>January 16, 2021</p></li>
+                    <li><p>3 min read</p></li>
+                    <li><p><a class="selected" href="thriftingtips.html">As is evident based on all of the other articles in the style section, I love thrifting. However, thrifting can be quite daunting sometimes. So now that I have the experience of a number of pretty legendary thrift hauls under my belt, I figured I'd share what I've learned...</a></p></li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div id="footer">
+        <p>email contact@ourbutterflies.com with any issues, comments, or questions</p>
+        Copyright &copy; 2020 Our Butterflies
+      </div>
+    </div>
+  </body>
+</html>
